@@ -84,7 +84,7 @@ setCurrentPage(1);
           </h2>
           <p className=" text-xl text-[#4A4A4A] md:w-4/5 mx-auto">
             Come with family and feel the love and enjoy the mouthwatering food such as Greek Salad,Lasagna, 
-            Butternut, Tokusan Wagyu, Olivas Ranelas and more for a moderate .
+            Butternut, Tokusan Wagyu, Olivas Ranelas and more for a moderate cost.
           </p>
           <button className="btn bg-green px-8 py-2 font-semibold text-white rounded-full">
             Order Now

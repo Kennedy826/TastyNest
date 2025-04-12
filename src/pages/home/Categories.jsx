@@ -11,7 +11,7 @@ const Categories = () => {
     <div className='section-container py-8'>
         <div className='text-center'> 
             <h2 className='subtitle'>Customer Favorites</h2>
-            <p className='title'> Popular Categories</p>
+            <p className='title'> Popular</p>
             </div>
             <div className='flex flex-col sm:flex-row flex-wrap gap-8 justify-around items-center mt-12'>
                 {categoryItems.map((item, i) => (

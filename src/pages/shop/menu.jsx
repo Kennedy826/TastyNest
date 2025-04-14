@@ -80,7 +80,7 @@ setCurrentPage(1);
         <div className='py-40 flex flex-col items-center justify-center gap-4'>
           <h2 className="md:text-5xl text-3xl font-bold md:leading-snug leading-snug">
             For the Love of DelicIOUS {" "}
-            <span className="text-[#39DB4A]">Fo</span>
+            <span className="text-[#39DB4A]">Food</span>
           </h2>
           <p className=" text-xl text-[#4A4A4A] md:w-4/5 mx-auto">
             Come with family and feel the love and enjoy the mouthwatering food such as Greek Salad,Lasagna, 

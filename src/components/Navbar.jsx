@@ -3,7 +3,7 @@ import logo from '/logo2.png'
 import { Link } from 'react-router';
 import { FaUser } from 'react-icons/fa';
 import { FaFacebookF, FaGithub, FaGoogle } from "react-icons/fa";
-import Modal from './modal';
+import Modal from './Modal';
 import { AuthContext } from '../contexts/AuthProvider';
 import Profile from './Profile';
 

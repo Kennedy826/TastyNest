@@ -79,7 +79,7 @@ setCurrentPage(1);
     <div className='section-container'>
         <div className='py-40 flex flex-col items-center justify-center gap-4'>
           <h2 className="md:text-5xl text-3xl font-bold md:leading-snug leading-snug">
-            For the Love of DelicIOUS {" "}
+            For the Love of Delicious {" "}
             <span className="text-[#39DB4A]">Food</span>
           </h2>
           <p className=" text-xl text-[#4A4A4A] md:w-4/5 mx-auto">

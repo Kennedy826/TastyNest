@@ -1,10 +1,10 @@
 import { createBrowserRouter } from 'react-router'
 import Main from '../layout/Main'
 import Home from '../pages/home/Home'
-import Menu from '../pages/shop/Menu'
 import Signup from '../components/Signup'
 import PrivateRouter from '../PrivateRouter/PrivateRouter'
 import UpdateProfile from '../pages/dashboard/UpdateProfile'
+import Menu from '../pages/shop/menu'
 
 const Router = createBrowserRouter([
     {

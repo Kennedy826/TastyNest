@@ -10,7 +10,7 @@ npm (Node Package Manager) or yarn
 
 ## Features
 * **User Friendly Interface:** Intuitive and clear UI design for easy navigation and interaction.
-* **User Authentication:** Intuitive and clear UI design for easy navigation and interaction.
+* **User Authentication:** Firebase for user signin.
 
 ## Tech Stack
 * **ReactJS:** React is a JavaScript library for building user interfaces
